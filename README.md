@@ -14,6 +14,8 @@ Sistema Single Page Applications(SPA) cadastrador de usuários que permite lista
 mv .env.sample .env
 ```
 
+Adicione as credenciais do Mysql no arquivo .env
+
 ### 2. Iniciar os Containers
 
 ```bash
